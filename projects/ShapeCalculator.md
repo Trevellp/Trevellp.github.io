@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Shapes.png
+image: img/image.png
 title: "BasicShapeCalculator"
 date: 2022
 published: true
