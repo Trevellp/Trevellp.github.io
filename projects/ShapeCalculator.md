@@ -11,7 +11,7 @@ labels:
   - Calculator
 summary: "This C++ program is a shape calculator that allows users to calculate the area and volume of various geometric shapes, including circles, spheres, and cubes, using object-oriented principles."
 ---
-
+https://github.com/Trevellp/Trevellp.github.io/blob/main/img/image.png?raw=true
 
 This C++ code implements a simple geometric shape calculator using object-oriented programming (OOP) principles. The program defines a base class Shape, which serves as an abstract class for various specific shape types such as circles, spheres, cylinders, squares, cubes, triangles, and tetrahedrons. The base class includes several virtual methods, such as name(), inputData(), area(), and printDetails(), which are intended to be overridden by derived shape classes to calculate and display the area, surface area, and volume of specific shapes.
 
