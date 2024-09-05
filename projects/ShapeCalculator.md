@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/keno.logo.jpg
+image: img/Shapes.png
 title: "BasicShapeCalculator"
 date: 2022
 published: true
