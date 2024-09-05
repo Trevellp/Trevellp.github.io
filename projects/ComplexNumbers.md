@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/keno.logo.jpg
+image: img/real number.png
 title: "ComplexNumbers"
 date: 2023
 published: true
