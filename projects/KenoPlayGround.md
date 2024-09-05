@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/keno.logo.jpg
 title: "KenoPlayGround"
 date: 2022
 published: true
