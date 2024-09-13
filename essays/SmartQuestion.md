@@ -9,6 +9,8 @@ labels:
   - Engineering
 ---
 
+i dunno what happening
+
 The question "How to get current formatted date dd/mm/yyyy in JavaScript and append it to an input [duplicate]?" is not the best way to ask for help on a forum. When asking a smart question, it's important to be clear, show what you've already tried, and be polite. Right away, the problem with this question is using the word “[duplicate]” in the title. This tells people that the person asking knows the question has already been asked before, but they still ask without explaining why the other answers don’t work for them. This makes it seem like they haven’t tried to find the answer on their own.
 
 The question also doesn’t give enough details. It’s important to explain exactly what part of the problem you’re stuck on. Are they having trouble formatting the date or adding it to the input field? Or maybe they’re seeing an error? Without more information, people have to guess what the real problem is, which means they might not give the right answer. It’s always helpful to give some background and explain what’s going wrong.
