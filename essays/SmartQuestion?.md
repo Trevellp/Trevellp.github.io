@@ -10,7 +10,6 @@ labels:
   - SttackOverflow
 ---
 
-[](https://stackoverflow.com/questions/12409299/how-to-get-current-formatted-date-dd-mm-yyyy-in-javascript-and-append-it-to-an-i)
 
 I’ve always been fascinated by how computers work and how we can use them to solve real-world problems. Software engineering allows me to turn ideas into programs or apps that people can actually use. Whether it’s creating a game, building a website, or automating a task, there’s something exciting about writing code and seeing it come to life. It’s like solving a puzzle, but with the added fun of creating something new and useful.
 Right now, I’m familiar with programming languages such as Java, c++, JavaScript, and TypeScript. I’ve built programs,  and even manage to built a small game. While I enjoy these projects, I know there’s a lot more to learn.
