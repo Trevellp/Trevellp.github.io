@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns"
+title: "My Journey Building Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-5
 published: true
@@ -55,8 +55,8 @@ Design patterns are established solutions to common problems in software design,
 3. **Behavioral Patterns**: Concerned with object interaction and responsibility delegation. Examples include the **Observer** and **Strategy** patterns.
 
  ---
- # AI Use
- I used AI to help me rewrite my technical essay to grammatically fix my work.
+ ## AI Use: 
+  I used AI to help me rewrite my technical essay to grammatically fix my work.
 
 
 
