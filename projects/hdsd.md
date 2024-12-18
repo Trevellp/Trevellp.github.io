@@ -102,30 +102,30 @@ The application differs depending on the role that you have on the website. You 
 
 ### Landing page
 When you first visit the page, three random properties will be shown. It will display a page that looks like: 
-<br> <img src="./doc/landing-page.png" width="100%"> <br>
+<br> <img src="./img/landing-page.png" width="100%"> <br>
 
 ### Logging in
 To further use this web application, an account is needed. Press the sign up button on the top right to create an account.
-<br> <img src="./doc/sign-up-page.png" width="100%"> <br>
+<br> <img src="./img/sign-up-page.png" width="100%"> <br>
 When signing up, you will need an email and a password for the account. Additionally, the purpose for creating an account is also needed. This will determine the type of account that you will have, and allow you to access different parts of the application based on your role.
 
 If you already have an account with us, then you can skip the step above.
 <br>
 Instead click on the sign in button on the top right to log in.
-<br> <img src="./doc/sign-in-page.png" width = "100%"> <br>
+<br> <img src="./img/sign-in-page.png" width = "100%"> <br>
 Please add your credentials to the appropriate boxes to login to your account.
 <br>
 
 #### Seeing all the listings
 To see all the listings currently available, click on the "For Rent" button on the top. This will redirect you to a page listing out of all the listings made by all landlord users.
-<br> <img src="./doc/for-rent.png" width="100%"> <br>
+<br> <img src="./img/for-rent.png" width="100%"> <br>
 
 ### Landlords
 This section will go over what certain parts of the web application that relate to landlords. Feel free to skip this part if this does not pertain to you.
 
 #### Creating a new listing
 When creating a new listing, click on the "Add Properties" button on the top. You will need to fill out a form that asks for information about the property that you are trying to list.
-<br> <img src="./doc/new-property.png" width="100%"> <br>
+<br> <img src="./img/new-property.png" width="100%"> <br>
 This includes:
  - The address of the property
  - The price you want to set the property at
@@ -136,11 +136,11 @@ This includes:
 
 #### Seeing your listings
 To see all the listing you made, click on the "My Properties" button on the top. This will redirect you to a page listing out all the listings that you made so far.
-<br> <img src="./doc/show-property-listing.png" width="100%"> <br>
+<br> <img src="./img/show-property-listing.png" width="100%"> <br>
 
 ### Admin
 As an admin, you will be able to see all the accounts created on this web application. Please note that you will not be able to access this page if you are not an admin. The accounts will be listed like this:
-<br> <img src="./doc/admin-page-users.png" width="100%"> <br>
+<br> <img src="./img/admin-page-users.png" width="100%"> <br>
 This page contains information such as the email a user used to create an account and the role that they have.
 <br>
 ### Search
@@ -153,4 +153,4 @@ This includes searches for:
  - The size of the property in square feet
 
 After pressing the "Search" button after setting your parameters, properties will show up that match what you're looking for. 
-<br> <img src="./doc/search-page.png" width="100%"> <br>
+<br> <img src="./img/search-page.png" width="100%"> <br>
