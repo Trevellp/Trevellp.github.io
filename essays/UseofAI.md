@@ -76,7 +76,7 @@ For writing comments and documentation, I used AI for formatting and grammar. AI
 
 ### Quality Assurance
 I used AI to troubleshoot code issues like:  
-> *"Why is this code throwing a TypeError?"*  
+ *"Why is this code throwing a TypeError?"*  
 ChatGPT identified potential errors, saving me debugging time.
 
 ### Other Uses in ICS 314
