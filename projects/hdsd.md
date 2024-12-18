@@ -102,30 +102,32 @@ The application differs depending on the role that you have on the website. You 
 
 ### Landing page
 When you first visit the page, three random properties will be shown. It will display a page that looks like: 
-<br> <img src="./img/landing-page.png" width="100%"> <br>
+<br> ![image](https://github.com/user-attachments/assets/618d244f-1253-4c62-9c9c-32b81ede26b7) <br>
 
 ### Logging in
 To further use this web application, an account is needed. Press the sign up button on the top right to create an account.
-<br> <img src="/img/sign-up-page.png" width="100%"> <br>
+<br> ![image](https://github.com/user-attachments/assets/5853b155-16c4-4aa3-9868-5c3aa6c50eac)<br>
 When signing up, you will need an email and a password for the account. Additionally, the purpose for creating an account is also needed. This will determine the type of account that you will have, and allow you to access different parts of the application based on your role.
 
 If you already have an account with us, then you can skip the step above.
 <br>
 Instead click on the sign in button on the top right to log in.
-<br> <img src="./img/sign-in-page.png" width = "100%"> <br>
+<br> ![image](https://github.com/user-attachments/assets/5afddade-4636-4af2-9fc7-10556bd36a85)<br>
 Please add your credentials to the appropriate boxes to login to your account.
 <br>
 
 #### Seeing all the listings
 To see all the listings currently available, click on the "For Rent" button on the top. This will redirect you to a page listing out of all the listings made by all landlord users.
-<br> <img src="./img/for-rent.png" width="100%"> <br>
+<br> ![image](https://github.com/user-attachments/assets/ded3b9c7-7f26-4e43-8c9b-1f0a8ab52673)
+ <br> 
+
 
 ### Landlords
 This section will go over what certain parts of the web application that relate to landlords. Feel free to skip this part if this does not pertain to you.
 
 #### Creating a new listing
 When creating a new listing, click on the "Add Properties" button on the top. You will need to fill out a form that asks for information about the property that you are trying to list.
-<br> <img src="./img/new-property.png" width="100%"> <br>
+<br> ![image](https://github.com/user-attachments/assets/957a9fb0-08a8-44d3-85fa-42efff8e088a)<br>
 This includes:
  - The address of the property
  - The price you want to set the property at
@@ -136,11 +138,11 @@ This includes:
 
 #### Seeing your listings
 To see all the listing you made, click on the "My Properties" button on the top. This will redirect you to a page listing out all the listings that you made so far.
-<br> <img src="./img/show-property-listing.png" width="100%"> <br>
+<br> ![image](https://github.com/user-attachments/assets/83d5d0e4-9d39-47a1-9247-20d6c8a730c0)<br>
 
 ### Admin
 As an admin, you will be able to see all the accounts created on this web application. Please note that you will not be able to access this page if you are not an admin. The accounts will be listed like this:
-<br> <img src="./img/admin-page-users.png" width="100%"> <br>
+<br>![image](https://github.com/user-attachments/assets/40326f1a-f71c-4b52-bc1c-70d5cdbd88e8) <br>
 This page contains information such as the email a user used to create an account and the role that they have.
 <br>
 ### Search
@@ -153,4 +155,4 @@ This includes searches for:
  - The size of the property in square feet
 
 After pressing the "Search" button after setting your parameters, properties will show up that match what you're looking for. 
-<br> <img src="./img/search-page.png" width="100%"> <br>
+<br> ![image](https://github.com/user-attachments/assets/f2c8a576-56d9-499c-a4a7-39d4894125a6) <br>
