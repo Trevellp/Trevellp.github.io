@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: img/keno.logo.jpg
-title: "KenoPlayGrohhhhund"
+image: img/Image_Editor.png
+title: "HouseFinders"
 date: 2024
 published: true
 labels:
   - Educational Technology
-  - Java
-  - Game Development
-summary: "I developed a gambling game without having to gamble with real money!"
+  - JavaScript 
+  - Web development
+  - HTML/CSS
+summary: "My team and I developmenta house finding web application!"
 ---
 
 ## Housing Finders
