@@ -76,7 +76,7 @@ I used AI to troubleshoot code issues like:
 ChatGPT identified potential errors, saving me debugging time.
 
 ### Other Uses in ICS 314
-For time management, I used AI to summarize ideas or other prompts to save me time:
+For time management, I used AI to summarize ideas or other prompts to save me time
 ---
 
 ## III. Impact on Learning and Understanding
