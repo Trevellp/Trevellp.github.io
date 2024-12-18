@@ -106,7 +106,7 @@ When you first visit the page, three random properties will be shown. It will di
 
 ### Logging in
 To further use this web application, an account is needed. Press the sign up button on the top right to create an account.
-<br> <img src="./img/sign-up-page.png" width="100%"> <br>
+<br> <img src="/img/sign-up-page.png" width="100%"> <br>
 When signing up, you will need an email and a password for the account. Additionally, the purpose for creating an account is also needed. This will determine the type of account that you will have, and allow you to access different parts of the application based on your role.
 
 If you already have an account with us, then you can skip the step above.
