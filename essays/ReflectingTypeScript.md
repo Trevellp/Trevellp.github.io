@@ -4,7 +4,7 @@ type: essay
 title: "Reflecting on TypeScript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
-published: true
+published: false
 labels:
   - Engineering
   - TypeScript
