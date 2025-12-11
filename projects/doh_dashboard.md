@@ -59,10 +59,4 @@ This dashboard visualizes Hawaiʻi Department of Health substance use emergency
 discharge data from 2018 to 2024. It recreates and extends an original Power BI
 dashboard using Python, Dash, Plotly, and custom CSS.
 
-## Sample Code
-```python
-sub_counts = (
-    dff.groupby("substance")["record_id"]
-    .count()
-    .reset_index(name="count")
-)
+
