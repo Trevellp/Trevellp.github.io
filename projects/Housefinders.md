@@ -11,7 +11,7 @@ labels:
   - JavaScript 
   - Web development
   - HTML/CSS
-summary: "My team and I developmenta house finding web application!"
+summary: "My team and I developed a house finding web application!"
 ---
 
 
