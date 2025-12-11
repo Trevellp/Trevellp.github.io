@@ -41,6 +41,25 @@ on demand with responsive UI updates.
 - Bootstrap / custom CSS  
 - SQLite caching layer (for performant repeated queries)
 
+
+
+## Dashboard Screenshots
+
+<p align="center">
+  <img src="/img/Dashboard1.png" width="850" style="border-radius: 10px;">
+  <br>
+  <em>Figure 1: Main dashboard overview including KPIs and filtering options.</em>
+</p>
+
+<p align="center">
+  <img src="/img/Dashboard2.png" width="850" style="border-radius: 10px;">
+  <br>
+  <em>Figure 2: Additional dashboard views visualizing polysubstance and demographic distributions.</em>
+</p>
+This dashboard visualizes Hawaiʻi Department of Health substance use emergency
+discharge data from 2018 to 2024. It recreates and extends an original Power BI
+dashboard using Python, Dash, Plotly, and custom CSS.
+
 ## Sample Code
 ```python
 sub_counts = (
@@ -48,13 +67,3 @@ sub_counts = (
     .count()
     .reset_index(name="count")
 )
-![DOH Dashboard View 1](/img/Dashboard1.png)
-
-![DOH Dashboard View 2](/img/Dashboard2.png)
-
-This dashboard visualizes Hawaiʻi Department of Health substance use emergency
-discharge data from 2018 to 2024. It recreates and extends an original Power BI
-dashboard using Python, Dash, Plotly, and custom CSS. Users can filter by year,
-county, age group, sex, and resident status while seeing KPIs and detailed tables
-update live.
-
