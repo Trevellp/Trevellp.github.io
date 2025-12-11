@@ -15,7 +15,6 @@ summary: "A Python Dash dashboard that recreates and improves a Hawaiʻi DOH sub
 
 
 
-# Hawaiʻi DOH Substance Use Dashboard (2018–2024)
 
 ## Overview
 This project recreates and improves a Department of Health Power BI dashboard using
